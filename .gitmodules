@@ -1,0 +1,3 @@
+[submodule "console/dotnet/SimpleComponents"]
+	path = console/dotnet/SimpleComponents
+	url = https://github.com/rsqb/SimpleComponents.git

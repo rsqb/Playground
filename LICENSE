@@ -2,26 +2,40 @@ Proprietary License
 
 Copyright (c) 2025 Yehor Marichev (aka rsqb). All rights reserved.
 
-This repository and all its submodules, including but not limited to source
-code, documentation, and assets, are proprietary. Permission is granted to
-view, download, and execute this software for personal reference only. You
-may not use or execute it for any other purposes. No permission is granted
-to copy, modify, merge, sublicense, distribute, or sell copies of this 
-software for any purpose without written permission.
+This repository, including but not limited to its source code,
+documentation, and assets, is proprietary. Each submodule in this repository
+is governed by the terms of its own LICENSE file, if present. In the absence
+of such a file, the submodule is subject to the terms of this license. For a
+complete list of submodule licenses, see SUBMODULES.md
+
+Permission is granted to:
+- View and study this software for personal educational purposes.
+- Download, execute, and evaluate this software for non-commercial purposes,
+  including academic grading or personal experimentation.
+- Submit this software to a university grading platform, provided access is
+  restricted to academic staff for evaluation purposes only.
+- Temporarily run the software on a local machine, provided it is deleted
+  after use.
+
+Without the written consent of the author, you may NOT:
+- Copy, modify, adapt, merge, publish, sublicense, distribute, or sell this
+  software or any part of it.
+- Use this software in any commercial, production, or public-facing
+  environment.
 
 For licensing inquiries: rsqb@use.startmail.com.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
-AUTHOR BE LIABLE FOR ANY CLAIM, DIRECT, INDIRECT, INCIDENTAL, SPECIAL, 
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
 PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
 OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, STRICT LIABILITY, TORT (INCLUDING
 NEGLIGENCE) OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, EVEN IF ADVISED OF 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, EVEN IF ADVISED OF
 THE POSSIBILITY OF SUCH DAMAGE.
 
-Unauthorized copying or use of this code may result in civil and criminal
-penalties, and will be prosecuted under applicable laws.
+Unauthorized copying or use of this code may result in legal action under
+applicable laws.
